@@ -18,6 +18,12 @@
 <img src="wenjian/十二期异型模型题.jpg"/><br/>
 <font color="blue" size="4"><em>--大题（必考题）--</em></font><br/>
 <img src="wenjian/十一期大题.jpg"/><br/>
+<font color="blue" size="4"><em>--楼梯题（难点题）--</em></font><br/>
+<img src="wenjian/楼梯题.jpg"/><br/>
+<font color="blue" size="4"><em>--标高轴网题（需掌握题）--</em></font><br/>
+<img src="wenjian/标高轴网题.jpg"/><br/>
+
+
 
 - Bulleted
 - List
