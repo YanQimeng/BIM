@@ -4,16 +4,17 @@
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 考试题型汇总
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+本考试总共分为四个部分，前三个部分为小题，共计50分，最后一道题为大题，分值为50分，需要更多时间，但是并不难。
 ```markdown
-Syntax highlighted code block
+重点：
 
-# Header 1
-## Header 2
-### Header 3
+# 构件集（必考题）
+
+## 体量（必考题）
+
+### 异性构件
 
 - Bulleted
 - List
