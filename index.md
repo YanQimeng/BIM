@@ -8,9 +8,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 本考试总共分为四个部分，前三个部分为小题，共计50分，最后一道题为大题，分值为50分，需要更多时间，但是并不难。
 ```markdown
-<font color="blue" size="4"><em>--重点--</em></font><br/>
+~~重点~~
 
-# 构件集（必考题）
+# ~~**构件集（必考题）**~~
 
 ## 体量（必考题）
 
