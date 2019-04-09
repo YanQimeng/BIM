@@ -2,8 +2,7 @@
 
 本考试没有很难，只需有清晰的思路，将自己所学展现，过关不是问题
 
-![实验](https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/
-u=702257389,1274025419&fm=27&gp=0.jpg "实验")
+![实验](E:\yicunzhao.jpg "实验")
 
 ### 考试题型汇总
 
