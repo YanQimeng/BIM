@@ -14,7 +14,9 @@
 <img src="wenjian/十二期构件集题.jpg"/><br/>
 <font color="blue" size="4"><em>--体量（必考题）--</em></font><br/>
 <img src="wenjian/十二期体量题.jpg"/><br/>
-<font color="blue" size="4"><em>--异性构件（必考题）--</em></font><br/>
+<font color="blue" size="4"><em>--异性构件（近两年高几率考试题）--</em></font><br/>
+<img src="wenjian/十二期异型模型题.jpg"/><br/>
+<font color="blue" size="4"><em>--大题（必考题）--</em></font><br/>
 <img src="wenjian/十二期异型模型题.jpg"/><br/>
 
 - Bulleted
