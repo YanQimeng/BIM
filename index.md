@@ -10,13 +10,14 @@
 
 *重点*
 
-#### ***构件集（必考题）***
-<font color="blue" size="4"><em>--学习专用--</em></font><br/>
+<font color="blue" size="4"><em>--构件集（必考题）--</em></font><br/>
+
 <img src="https://yanqimeng.github.io/QMBIM/meiti/Summer_13.gif" width="300" height="50" /><br/>
 
-#### ***体量（必考题）***
+<font color="blue" size="4"><em>--体量（必考题）--</em></font><br/>
 
-#### ***异性构件***
+<font color="blue" size="4"><em>--异性构件（必考题）--</em></font><br/>
+
 
 - Bulleted
 - List
