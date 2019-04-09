@@ -24,7 +24,7 @@
 <img src="wenjian/标高轴网题.jpg"/><br/>
 <font color="blue" size="4"><em>--屋顶题（需掌握题）--</em></font><br/>
 <img src="wenjian/屋顶题.jpg"/><br/>
--------------
+<HR style="FILTER: alpha(opacity=100,finishopacity=0,style=3)" width="80%" color=#987cb9 SIZE=3>
 <font color="red" size="5">类型题详细分析</font><br/>
 
 - Bulleted
