@@ -25,7 +25,7 @@
 <font color="blue" size="4"><em>--屋顶题（需掌握题）--</em></font><br/>
 <img src="wenjian/屋顶题.jpg"/><br/>
 -------------
-<font color="red" size="5">类型题x详细分析</font><br/>
+<font color="red" size="5">类型题详细分析</font><br/>
 
 - Bulleted
 - List
