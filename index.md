@@ -12,6 +12,8 @@
 
 # ***构件集（必考题）***
 
+![实验](https://yanqimeng.github.io/QMBIM/meiti/Summer_13.gif "实验")
+
 ## ***体量（必考题）***
 
 ### ***异性构件***
