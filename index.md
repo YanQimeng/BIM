@@ -11,9 +11,7 @@
 *重点*
 
 #### ***构件集（必考题）***
-
-![实验](https://yanqimeng.github.io/QMBIM/meiti/Summer_13.gif "实验")
-
+$\color{red}{必考题}$
 <img src="https://yanqimeng.github.io/QMBIM/meiti/Summer_13.gif" width="300" height="50" /><br/>
 
 #### ***体量（必考题）***
