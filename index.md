@@ -7,16 +7,16 @@
 ### 考试题型汇总
 
 本考试总共分为四个部分，前三个部分为小题，共计50分，最后一道题为大题，分值为50分，需要更多时间，但是并不难。
-```markdown
-~~*重点*~~
 
-# ***构件集（必考题）***
+*重点*
+
+#### ***构件集（必考题）***
 
 ![实验](https://yanqimeng.github.io/QMBIM/meiti/Summer_13.gif "实验")
 
-## ***体量（必考题）***
+#### ***体量（必考题）***
 
-### ***异性构件***
+#### ***异性构件***
 
 - Bulleted
 - List
@@ -27,7 +27,7 @@
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
