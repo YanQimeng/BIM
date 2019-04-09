@@ -17,7 +17,7 @@
 <font color="blue" size="4"><em>--异性构件（近两年高几率考试题）--</em></font><br/>
 <img src="wenjian/十二期异型模型题.jpg"/><br/>
 <font color="blue" size="4"><em>--大题（必考题）--</em></font><br/>
-<img src="wenjian/十二期异型模型题.jpg"/><br/>
+<img src="wenjian/十一期大题.jpg"/><br/>
 
 - Bulleted
 - List
