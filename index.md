@@ -40,7 +40,7 @@
 [Link](url) and ![Image](src)
 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [阿尔山项目漫游视频](https://v.youku.com/v_show/id_XNDA3MjYxNDQ2MA==.html?spm=a2hzp.8244740.0.0).
 
 ### Jekyll Themes
 
