@@ -37,10 +37,12 @@
 
 **Bold** and _Italic_ and `Code` text
 
+![闫启蒙](https://v.youku.com/v_show/id_XNDA3MjYxNDQ2MA==.html?spm=a2hzp.8244740.0.0 "闫启蒙")
+
 [Link](url) and ![Image](src)
 
 
-For more details see [阿尔山项目漫游视频](https://v.youku.com/v_show/id_XNDA3MjYxNDQ2MA==.html?spm=a2hzp.8244740.0.0).
+ [阿尔山项目漫游视频](https://v.youku.com/v_show/id_XNDA3MjYxNDQ2MA==.html?spm=a2hzp.8244740.0.0).
 
 ### Jekyll Themes
 
