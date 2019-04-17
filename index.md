@@ -26,8 +26,7 @@
 <img src="wenjian/屋顶题.jpg"/><br/>
 
 <HR>
-
-<font color="red" size="5">类型题详细分析</font><br/>
+<h2 align="center" >类型题详细分析</h2>
 
 - Bulleted
 - List
