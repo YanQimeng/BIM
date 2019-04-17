@@ -1,8 +1,8 @@
-## 让结局不留遗憾
+## BIM全国技能等级考试
 
-本考试没有很难，只需有清晰的思路，将自己所学展现，过关不是问题
+本考试没有很难，只需有清晰的思路，过关不是问题
 
-![闫启蒙](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1554803177206&di=daa322e42a57fbf97fac76e60697900e&imgtype=0&src=http%3A%2F%2Ff.zhulong.com%2Fv1%2Ftfs%2FT1ol_TBCbT1RCvBVdK_0_0_1600_0.jpg "闫启蒙")
+<img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1554803177206&di=daa322e42a57fbf97fac76e60697900e&imgtype=0&src=http%3A%2F%2Ff.zhulong.com%2Fv1%2Ftfs%2FT1ol_TBCbT1RCvBVdK_0_0_1600_0.jpg" width="500" height="500">
 
 ### 考试题型汇总
 
@@ -36,9 +36,6 @@
 2. List
 
 **Bold** and _Italic_ and `Code` text
-
-<video src="https://https://github.com/YanQimeng/QMBIM/blob/master/meiti/shiwai.mp4" controls="controls">
-</video>
 
 [Link](url) and ![Image](src)
 
