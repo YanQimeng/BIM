@@ -68,24 +68,5 @@
 	<mark>再三维中保存是为了，在电脑中的缩略图中看到的是我们三维的形状。 PS：此步骤仅为了好看~</mark><br>
 </p>
 
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
-
  [阿尔山项目漫游视频](https://v.youku.com/v_show/id_XNDA3MjYxNDQ2MA==.html?spm=a2hzp.8244740.0.0).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/YanQimeng/BIM/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
